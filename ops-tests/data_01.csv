@@ -1,3 +1,11 @@
-uid,user_name,user_ages
-1,theta,29
-2,wang,13
+uid,user_name,user_age,user_gender,user_location,user_occupation,user_hobbies
+1,theta,29,male,Taipei,software engineer,reading
+2,wang,13,female,Taichung,student,drawing
+3,amy,35,female,New York,teacher,traveling
+4,john,41,male,London,doctor,cooking
+5,lucas,25,male,Sydney,photographer,hiking
+6,elena,22,female,Barcelona,graphic designer,painting
+7,kevin,31,male,Los Angeles,entrepreneur,playing basketball
+8,lily,27,female,Paris,nurse,yoga
+9,mark,55,male,Toronto,professor,gardening
+10,sarah,18,female,Berlin,student,music
